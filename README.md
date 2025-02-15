@@ -1,23 +1,21 @@
 <div>
 <h1>DeepClaude 🐬🧠 - OpenAI Compatible</h1>
 
-<a href="https://github.com/getasterisk/deepclaude"> Inspiration from getasterisk/deepclaude</a>
+<a href="https://github.com/getasterisk/deepclaude"> Inspiration from ErlichLiu/deepclaude</a>
 
 [![GitHub license](https://img.erlich.fun/personal-blog/uPic/deepclaude.svg)](#)
 [![Compatible with](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=FFFFFF)](https://openai.com)
 
 </div>
-
-<div>
-<h3 style="color: #FF9909"> 特别说明：对于不太会部署，只是希望使用上最强 DeepClaude 组合的朋友，可以直接访问 Erlich 个人网站自助购买按量付费的 API：https://erlich.fun/deepclaude-pricing
-也可以直接联系 Erlich（微信：geekthings）国内可以直接访问 </h3>
-</div>
-
 ---
 
 <details>
 <summary><strong>更新日志：</strong></summary> 
 <div>
+2025-02-15： 第一次fork,学习一下。  
+</div>
+<div>
+来自ErlichLiu的更新：
 2025-02-08.2: 支持非流式请求，支持 OpenAI 兼容的 models 接口返回。（⚠️ 当前暂未实现正确的 tokens 消耗统计，稍后更新）
 
 2025-02-08.1: 添加 Github Actions，支持 fork 自动同步、支持自动构建 Docker 最新镜像、支持 docker-compose 部署
